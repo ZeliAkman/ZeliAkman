@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Züleyha Akman</h1>
 <h3 align="center">A passionate Android Developer from Turkey !</h3>
-<img align="center" alt="Codding" width="400" src="https://i.imgur.com/7A5ZfPJ.gif">
+<img align="center" alt="Codding" width="800" src="https://i.imgur.com/7A5ZfPJ.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akman&label=Profile%20views&color=0e75b6&style=flat" alt="akman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akman" alt="akman" /></a> </p>
 
 - 🌱 I’m currently learning **Kotlin,Firebase, Material Design and Jetpack Compose**
 

@@ -17,4 +17,4 @@
 - ⚡ Fun fact **Live each day like it's your last - So live life to the fullest!!!**
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akman&" alt="akman" /></p>
+
